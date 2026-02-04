@@ -1,0 +1,3 @@
+sitemap: http://www.bkpreci.com/sitemap.xml
+User-agent: *
+
